@@ -28,7 +28,7 @@ import {DaiJoin} from "dss/join.sol";
 import {Flapper} from "dss/flap.sol";
 import {Flopper} from "dss/flop.sol";
 import {Flipper} from "dss/flip.sol";
-import {Dai} from "dss/dai.sol";
+import {Dai} from "dss/tao.sol";
 import {End} from "dss/end.sol";
 import {ESM} from "esm/ESM.sol";
 import {Pot} from "dss/pot.sol";
